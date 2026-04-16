@@ -9,7 +9,7 @@ description = "Model Context Protocol server that connects Claude (and other MCP
 readme = "README.md"
 requires-python = ">=3.10"
 license = { text = "MIT" }
-authors = [{ name = "Lucas Salvador", email = "lucas.gf.salvador@gmail.com" }]
+authors = [{ name = "lucasgfsvd" }]
 keywords = ["mcp", "todoist", "claude", "anthropic", "llm", "tasks", "productivity"]
 classifiers = [
     "Development Status :: 4 - Beta",
