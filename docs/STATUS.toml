@@ -1,0 +1,25 @@
+# What this repo is, where it stands, and what it needs next.
+#
+# Read by My-Dashboard's repo-radar job (tasks/repo-radar) to build the /repos
+# overview across every repo. Nothing parses this repo's code -- this file is the
+# whole contract, so keep it true. `updated` is load-bearing: the radar counts the
+# commits landed since that date and flags the file as stale rather than showing
+# an obsolete description.
+#
+# Seeded from this repo's own documentation (README.md).
+
+
+schema = 1
+
+purpose = "Your own small Python/FastMCP server that gives Claude Desktop or Claude Code read/write access to your Todoist over stdio via 9 tools, with the API token staying on your machine."
+
+# idea | prototype | active | maintenance | paused | archived
+stage = "maintenance"
+
+# The date this file was last made true.
+updated = 2026-09-24
+
+# No forward work is stated anywhere in this repo's documentation.
+# Left empty deliberately rather than invented; fill it when you next
+# pick this up.
+next_actions = []
